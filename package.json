@@ -1,0 +1,25 @@
+{
+  "name": "poc-custom-build",
+  "version": "1.0.0",
+  "description": "POC to explore using webpack to have custom build for ESRI JS APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehabx2007/poc-custom-build.git"
+  },
+  "keywords": [
+    "arcgis",
+    "js",
+    "webpack",
+    "esri"
+  ],
+  "author": "Ihab Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehabx2007/poc-custom-build/issues"
+  },
+  "homepage": "https://github.com/ehabx2007/poc-custom-build#readme"
+}
